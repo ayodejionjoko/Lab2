@@ -1,0 +1,14 @@
+C:\SCHOOLCOURSES\level6\.NET\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\SCHOOLCOURSES\level6\.NET\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\SCHOOLCOURSES\level6\.NET\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\SCHOOLCOURSES\level6\.NET\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\SCHOOLCOURSES\level6\.NET\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\SCHOOLCOURSES\level6\.NET\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SCHOOLCOURSES\level6\.NET\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\SCHOOLCOURSES\level6\.NET\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\SCHOOLCOURSES\level6\.NET\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\SCHOOLCOURSES\level6\.NET\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\SCHOOLCOURSES\level6\.NET\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\SCHOOLCOURSES\level6\.NET\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\SCHOOLCOURSES\level6\.NET\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\SCHOOLCOURSES\level6\.NET\Lab2\obj\Debug\net8.0\ref\Lab2.dll
